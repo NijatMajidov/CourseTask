@@ -78,7 +78,10 @@
         //            Console.WriteLine(num * num2);
         //            break;
         //        case '/':
+        //              if(num2!=0)
         //            Console.WriteLine(num / num2);
+        //              else
+        //            Console.WriteLine("ikinci eded 0 ola bilmez");
         //            break;
         //        default:
         //            Console.WriteLine("emeliyat yoxdur");
