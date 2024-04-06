@@ -58,7 +58,7 @@ namespace Core
 
             foreach (Product pro in Products)
             {
-                if (pro.Name == name)
+                if (pro.Name.ToLower().Contains(name.ToLower()))
                 {
                     Array.Resize(ref filProducts, filProducts.Length + 1);
                     filProducts[filProducts.Length - 1] = pro;
