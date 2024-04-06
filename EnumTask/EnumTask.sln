@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumTask", "EnumTask\EnumTask.csproj", "{2F959DB1-2CFF-46FA-A0E6-E7F1F51E261F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{40EFDE58-E014-4DD6-A597-4B2FCB487EA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F959DB1-2CFF-46FA-A0E6-E7F1F51E261F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F959DB1-2CFF-46FA-A0E6-E7F1F51E261F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F959DB1-2CFF-46FA-A0E6-E7F1F51E261F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F959DB1-2CFF-46FA-A0E6-E7F1F51E261F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40EFDE58-E014-4DD6-A597-4B2FCB487EA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40EFDE58-E014-4DD6-A597-4B2FCB487EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40EFDE58-E014-4DD6-A597-4B2FCB487EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40EFDE58-E014-4DD6-A597-4B2FCB487EA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E2E5221-2819-4854-A864-C8CEC372555E}
+	EndGlobalSection
+EndGlobal
